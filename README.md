@@ -1,29 +1,26 @@
-# pong-C++-raylib
+# Pong (1972) Clone — C++ / raylib
 
-two-player Pong (1972) clone ( C++ &amp; raylib )
+A simple two-player Pong clone built with C++ using raylib.
 
-# 💡 Overview
+## 💡 Overview
+Made as a small learning project to practise a basic game loop, input handling, collision, and scoring.
 
-Simple 1972 pong clone using c++ and the [raylib library](https://www.raylib.com/).
+## 🎮 Controls
+- Left paddle: W / S  
+- Right paddle: ↑ / ↓
 
-# 🎮 Controls
+## ✨ Features
+- Local 2-player gameplay
+- Paddle movement + wall boundaries
+- Ball collision + scoring
 
-Left player uses W / S , Right player uses ↑ and ↓
-
-# ✨ Features
-
-Box size and speed are set via the box_... variables in main.cpp. <br>
-Ball starting speed is set via the ball_start_speed_x/y in main.cpp.
-
-# 📦 Setup (linux)
+## 📦 Setup (Linux)
 ### Requirements
-- g++ (c++ compiler)
-- raylib library
+- g++ (C++ compiler)
+- raylib development libraries installed
 
-### Build & run
-From the project folder, give build.sh executable permission, and run it. The game will compile in the new folder "build":
+### Build & Run
 ```bash
 chmod +x build.sh
 ./build.sh
 ./build/pong
-```
