@@ -13,7 +13,7 @@ Left player uses W / S , Right player uses ↑ and ↓
 # ✨ Features
 
 Box size and speed are set via the box_... variables in main.cpp. <br>
-Ball starting speed is set via the ball_speed_x/y in main.cpp.
+Ball starting speed is set via the ball_start_speed_x/y in main.cpp.
 
 # 📦 Setup (linux)
 ### Requirements
