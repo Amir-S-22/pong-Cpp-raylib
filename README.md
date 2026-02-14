@@ -21,7 +21,7 @@ Ball starting speed is set via the ball_start_speed_x/y in main.cpp.
 - raylib library
 
 ### Build & run
-From the project folder, give build.sh executable permission, and run it. The game will compile in the new folder "pong":
+From the project folder, give build.sh executable permission, and run it. The game will compile in the new folder "build":
 ```bash
 chmod +x build.sh
 ./build.sh
