@@ -1,6 +1,6 @@
 # Pong (1972) Clone — C++ / raylib
 
-A simple two-player Pong clone built with C++ using raylib.
+Simple two-player Pong clone built with C++ using raylib.
 
 ## 💡 Overview
 Made as a small learning project to practise a basic game loop, input handling, collision, and scoring.
