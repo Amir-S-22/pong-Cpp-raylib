@@ -3,21 +3,21 @@
 Simple two-player Pong clone built with C++ using raylib.
 
 ## 💡 Overview
-Made as a small learning project to practise a basic game loop, input handling, collision, and scoring.
+Made as a small personal project to learn about raylib, and basic game logic.
 
 ## 🎮 Controls
 - Left paddle: W / S  
 - Right paddle: ↑ / ↓
 
 ## ✨ Features
-- Local 2-player gameplay
-- Paddle movement + wall boundaries
-- Ball collision + scoring
+- 2-player gameplay
+- scoring
+- Ball collision + adaptive speed
 
 ## 📦 Setup (Linux)
 ### Requirements
 - g++ (C++ compiler)
-- raylib development libraries installed
+- raylib libraries
 
 ### Build & Run
 ```bash
