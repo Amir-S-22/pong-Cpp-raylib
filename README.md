@@ -13,6 +13,17 @@ Left player uses W / S , Right player uses ↑ and ↓
 # ✨ Features
 
 Box size and speed are set via the box_... variables in main.cpp. <br>
-Ball starting speed is set via the ball_speed_x/y in main.cpp
+Ball starting speed is set via the ball_speed_x/y in main.cpp.
 
-# 📦 Setup
+# 📦 Setup (linux)
+### Requirements
+- g++ (c++ compiler)
+- raylib library
+<br>
+### Build & run
+From the project folder, give build.sh executable permission, and run it. The game will compile in the new folder "pong":
+```bash
+chmod +x build.sh
+./build.sh
+./build/pong
+```
