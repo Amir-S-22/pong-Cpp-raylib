@@ -3,7 +3,7 @@
 Simple two-player Pong clone built with C++ using raylib.
 <br>
 <p align="center">
-  <img src="demo.gif" alt="demo" width="800">
+  <img src="demo.gif" alt="demo" width="400">
 </p>
 
 
