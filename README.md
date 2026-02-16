@@ -2,7 +2,9 @@
 
 Simple two-player Pong clone built with C++ using raylib.
 <br>
-![pong demo](demo.gif)
+<p align="center">
+  <img src="demo.gif" alt="demo" width="800">
+</p>
 
 
 ## 💡 Overview
